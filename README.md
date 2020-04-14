@@ -1,2 +1,2 @@
-# LLVM-Projects
-LLVM Projects for CSE231: Advanced Compiler Design
+# LLVM-Project
+Course Project for CSE 231: Advanced Complier Design
